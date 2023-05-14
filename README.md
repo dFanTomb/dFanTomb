@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 Check out our final bootcamp project [https://github.com/SebLabbate/Melomane](https://github.com/dFanTomb/Melomane)
+- 👨‍💻 Check out our final bootcamp project [https://github.com/dFanTomb/Melomane](https://github.com/dFanTomb/Melomane)
 
 - 💬 Ask me about **Ruby on Rails, HTML, CSS**
 
