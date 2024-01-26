@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Darko</h1>
-<h3 align="center">Full-Stack Developer in France</h3>
+<h3 align="center">Full-Stack Developer based in Paris, France</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 JavaScript coding
 
 - 👨‍💻 Check out our final bootcamp project [https://github.com/dFanTomb/Melomane](https://github.com/dFanTomb/Melomane)
 
-- 💬 Ask me about **Ruby on Rails, HTML, CSS**
+- 💬 Ask me about **Ruby, Ruby on Rails, HTML, CSS, JavaScript, Stimulus.js, Webpack and more**
 
 - 📫 How to reach me **darkoilievsum@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/p39uk4ssv0](https://flowcv.com/resume/p39uk4ssv0)
+- 📄 Take a look at my CV(https://flowcv.com/resume/p39uk4ssv0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
