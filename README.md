@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **darkoilievsum@gmail.com**
 
-- 📄 Take a look at my CV(https://flowcv.com/resume/p39uk4ssv0)
+- 📄 Take a look at my <a href="https://flowcv.com/resume/p39uk4ssv0" target="blank">CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
