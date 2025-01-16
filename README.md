@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Darko</h1>
-<h3 align="center">Full-Stack Developer based in Paris, France</h3>
+<h3 align="center">Front End Developer always on relation Paris, France - Macedonia</h3>
 
-- 🌱 JavaScript coding
+- 🌱 React coding
 
-- 👨‍💻 Check out our final bootcamp project [https://github.com/dFanTomb/Melomane](https://github.com/dFanTomb/Melomane)
+- 👨‍💻 Check out my last project [https://github.com/dFanTomb/power-flow-ease](https://github.com/dFanTomb/power-flow-ease)
 
-- 💬 Ask me about **Ruby, Ruby on Rails, HTML, CSS, JavaScript, Stimulus.js, Webpack and more**
+- 💬 Ask me about **React, TypeScript, Javascript, HTML, CSS and Ruby on Rails**
 
 - 📫 How to reach me **darkoilievsum@gmail.com**
 
