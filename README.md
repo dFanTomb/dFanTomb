@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darko</h1>
-<h3 align="center">Front End Developer always on relation Paris, France - Macedonia</h3>
+<h3 align="center">Front End Developer on projects between Paris, France and Macedonia</h3>
 
 - 🌱 React coding
 
